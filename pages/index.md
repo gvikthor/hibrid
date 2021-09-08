@@ -6,6 +6,7 @@ kerdoivek: !file kerdoivek.yml
 
 ## Mi a cél?
 Az oldal célja, hogy egy űrlapsorozat segítségével felmérjük a hibrid oktatással kapcsolatos visszajelzéseket [anonim](#!/anonim) módon. Az eredmények segítségével remélhetőleg javítani lehet azokat a területeket, amik gyengélkednek ezen oktatási formában, a pozitívumokat pedig kiterjeszthetjük, hogy mindenhol segítsék a tanulmányainkat.
+<!-- Github pull test comment -->
 
 ## Kérdőívek
 A kérdőívek kitöltéséhez jelentkezz be az INF-es azonosítóddal!

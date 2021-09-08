@@ -1,0 +1,41 @@
+#hok-logo{
+    height: 60px;
+}
+
+#elerhetoseg{
+    display: inline-block !important;
+    color: #517d81;
+    cursor: pointer;
+    font-weight: bold;
+}
+
+.vastag{
+    font-weight: bold;
+}
+
+.scrolltablazat{
+    display: flex;
+}
+.scrolltablazat table{
+    margin: auto;
+    display: block;
+    overflow-x: auto;
+    white-space: nowrap;
+}
+.kozep td{
+    text-align: center;
+}
+
+hr {
+    visibility: visible !important;
+    height: 1px !important;
+    background: #517d81 !important;
+    margin: 2em 0 2em 0 !important;
+}
+
+.columns a{
+    transition: opacity 0.5s;
+}
+.columns a:hover{
+    opacity: 90% !important;
+}

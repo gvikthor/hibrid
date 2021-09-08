@@ -1,0 +1,28 @@
+header span{
+    color: #232121 !important;
+}
+
+h1, h2{
+    /*color: #13294B;*/
+    color: #236192;
+}
+
+.hok-lblue.card:not(.outline){
+    background: #236192;
+    color: #f1f2f1;
+}
+
+.hok-dblue.card:not(.outline){
+    background: #13294b;
+    color: #f1f2f1;
+}
+
+.hok-red.card:not(.outline){
+    background: #b10439;
+    color: #f1f2f1;
+}
+
+.hok-green.card:not(.outline){
+    background: #55b24c;
+    color: #f1f2f1;
+}

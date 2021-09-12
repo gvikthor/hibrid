@@ -18,7 +18,7 @@ A kérdőívek kitöltéséhez jelentkezz be az INF-es azonosítóddal!
 </a>
 {{/aktualis}}
 {{#kerdoivek}}
-<a href="{{link}}" class="gray card" target="_blank">
+<a href="{{link}}" class="{{color}} card" target="_blank">
     <strong>{{day}}</strong>
 </a>
 {{/kerdoivek}}

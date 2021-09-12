@@ -12,7 +12,7 @@ Az oldal célja, hogy egy űrlapsorozat segítségével felmérjük a hibrid okt
 A kérdőívek kitöltéséhez jelentkezz be az INF-es azonosítóddal!
 <section class="one columns">
 {{#aktualis}}
-<a href="{{link}}" class="hok-lblue card" target="_blank">
+<a href="{{link}}" class="{{color}} card" target="_blank">
     <strong>{{day}}</strong>
     <p>Ez a legfrissebb kérdőív. Minden nap kikerül egy új űrlap az előző napról.</p>
 </a>

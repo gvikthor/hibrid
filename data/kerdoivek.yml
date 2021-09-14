@@ -1,19 +1,25 @@
 ---
-- day: 1. heti eredmények hamarosan
-  link: 
-  color: hok-red
+- day: 1. heti eredmények
+  desc: Használd a táblázat nézetszűrőit, ha csak az online/jelenléti eredményeket szeretnéd látni!
+  link: https://ikelte-my.sharepoint.com/:x:/g/personal/mohmas_inf_elte_hu/EQcnzvdXMntDrVpsCSb8rYYBadDkPqVfR3jHlRoV3wx19g?e=Gwh6MD
+  color: hok-green
 - day: 09.10. Péntek
+  desc: 'Össz/Online/Jelenléti: 3.20/2.77/3.61'
   link: https://forms.office.com/r/i5QJkFxGwH
   color: gray
 - day: 09.09. Csütörtök
+  desc: 'Össz/Online/Jelenléti: 3.13/3.14/3.11'
   link: https://forms.office.com/r/6PZ461PUkX
   color: gray
 - day: 09.08. Szerda
+  desc: 'Össz/Online/Jelenléti: 3.23/3.33/3.13'
   color: gray
   link: https://forms.office.com/r/dp9UVWGHzE
 - day: 09.07. Kedd
+  desc: 'Össz/Online/Jelenléti: 3.03/3.01/3.05'
   link: https://forms.office.com/r/ArupL04K3y
   color: gray
 - day: 09.06. Hétfő
+  desc: 'Össz/Online/Jelenléti: 2.72/2.57/2.91'
   link: https://forms.office.com/r/6g8gMrrF3H
   color: gray

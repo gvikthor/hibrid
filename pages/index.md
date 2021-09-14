@@ -20,6 +20,7 @@ A kérdőívek kitöltéséhez jelentkezz be az INF-es azonosítóddal!
 {{#kerdoivek}}
 <a href="{{link}}" class="{{color}} card" target="_blank">
     <strong>{{day}}</strong>
+    <p>{{desc}}</p>
 </a>
 {{/kerdoivek}}
 </section>

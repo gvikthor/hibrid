@@ -14,7 +14,10 @@ A kérdőívek kitöltéséhez jelentkezz be az INF-es azonosítóddal!
 {{#aktualis}}
 <a href="{{link}}" class="{{color}} card" target="_blank">
     <strong>{{day}}</strong>
-    <p>Ez a legfrissebb kérdőív. Minden nap kikerül egy új űrlap az előző napról.</p>
+    <p>
+    Ez a legfrissebb kérdőív. Minden nap kikerül egy új űrlap az előző napról.<br>
+    A pénteki formot <b>vasárnap</b> este 19:59-ig tudjátok kitölteni.
+    </p>
 </a>
 {{/aktualis}}
 {{#kerdoivek}}

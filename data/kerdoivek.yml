@@ -1,26 +1,38 @@
 ---
+- hun-day: 2. heti eredmények
+  hun-desc: Használd a táblázat nézetszűrőit, ha csak az online/jelenléti eredményeket szeretnéd látni!
+  eng-day: Results of the 2nd week
+  eng-desc: Only available in Hungarian, because the page was not bilingual in the first two weeks.
+  link: https://ikelte-my.sharepoint.com/:x:/g/personal/mohmas_inf_elte_hu/Ea29yWAdc_VHoqc977w1__kBq6D8vC7mIdPwyY5m8EgKDA?e=Lgn0cR
+  color: hok-green
+- hun-day: 09.17. Péntek
+  hun-desc: 'Kevés válasz'
+  eng-day: 17.09. Friday
+  eng-desc: 'Few results'
+  link: https://forms.office.com/r/BxBj1tKWRB
+  color: gray
 - hun-day: 09.16. Csütörtök
-  hun-desc: A kérdőívet szombat este 19:59-ig tudjátok kitölteni.
+  hun-desc: 'Össz/Online/Jelenléti: 3.05/3.21/2.86'
   eng-day: 16.09. Thursday
-  eng-desc: You can fill the form until Saturday at 7:59PM
+  eng-desc: 'All/Online/Presence: 3.05/3.21/2.86'
   link: https://forms.office.com/r/8Jxv898vMq
   color: gray
 - hun-day: 09.15. Szerda
-  hun-desc: A kérdőívet szombat este 19:59-ig tudjátok kitölteni.
+  hun-desc: 'Össz/Online/Jelenléti: 3.14/3.19/3.08'
   eng-day: 15.09. Wednesday
-  eng-desc: You can fill the form until Saturday at 7:59PM
+  eng-desc: 'All/Online/Presence: 3.14/3.19/3.08'
   link: https://forms.office.com/r/NhjSRRNJLz
   color: gray
 - hun-day: 09.14. Kedd
-  hun-desc: A kérdőívet szombat este 19:59-ig tudjátok kitölteni.
+  hun-desc: 'Össz/Online/Jelenléti: 3.03/2.95/3.11'
   eng-day: 14.09. Tuesday
-  eng-desc: You can fill the form until Saturday at 7:59PM
+  eng-desc: 'All/Online/Presence: 3.03/2.95/3.11'
   link: https://forms.office.com/r/tkXuMu6pej
   color: gray
 - hun-day: 09.13. Hétfő
-  hun-desc: A kérdőívet szombat este 19:59-ig tudjátok kitölteni.
+  hun-desc: 'Össz/Online/Jelenléti: 3.01/3.34/2.47'
   eng-day: 13.09. Monday
-  eng-desc: You can fill the form until Saturday at 7:59PM
+  eng-desc: 'All/Online/Presence: 3.01/3.34/2.47'
   link: https://forms.office.com/r/b2H4nrKBie
   color: gray
 - hun-day: 1. heti eredmények

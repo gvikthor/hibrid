@@ -1,7 +1,9 @@
-# Névtelen kérdőívek
+---
+l91: !file localisation/91-anonim-cim.yml
+l92: !file localisation/92-anonim-szoveg.yml
+---
 
-Bár a kérdőívek kitöltéséhez INF-es bejelentkezés szükséges, ez csak egy autentikációs lépés, melynek célja, hogy ne lehessen válaszokkal spamelni a rendszert. Az űrlapok nem kötik a nevet válaszokhoz, sőt, nem is tárolják, hogy kik válaszoltak már (ezt csak a Microsoft forms tudja belsőleg).
-
-Mindezt az alábbi Forms beállítások biztosítják:
+{{#l91}}<h1 class="{{lang}} language">{{text}}</h1>{{/l91}}
+{{#l92}}<p class="{{lang}} language">{{text}}</p>{{/l92}}
 
 ![A Microsoft Froms névtelen válaszokat gyűjtő beállításai. Csak szervezeten belüli személyek válaszolhatnak, személyenként csak egyszer, de az űrlap nem rögzít nevet.](img/forms_anonim.png)

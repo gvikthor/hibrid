@@ -16,20 +16,42 @@
         rel="stylesheet"
         href="css/utility.css"
     />
+    <link
+        rel="stylesheet"
+        href="css/language.css"
+    />
     <link rel="icon" 
         type="image/png" 
         href="img/hok_60.png"
     />
 </head>
 <body>
-    <header class="sticky">
+    <header class="two columns sticky">
         <a href="#!/index" class="">
-          <img src="img/hok_60.png" id="hok-logo" class="left floated">
-          <span>
-              ELTE Informatikai Kar<br>
-              Hallgatói Önkormányzat
-          </span>
+            <img src="img/hok_60.png" id="hok-logo" class="left floated">
+            <span class="hungarian language">
+                ELTE Informatikai Kar<br>
+                Hallgatói Önkormányzat
+            </span>
+            <span class="english language">
+                ELTE Faculty of Informatics<br>
+                Students' Union
+            </span>
         </a>
+        <div>
+            <a href="" class="hungarian language lang-change gray card" data-lang="english">
+                <img src="img/lang_eng.png" class="lang-flag left floated">
+                <span>
+                    English
+                </span>
+            </a>
+            <a href="" class="english language lang-change gray card" data-lang="hungarian">
+                <img src="img/lang_hun.png" class="lang-flag left floated">
+                <span>
+                Magyar
+                </span>
+            </a>
+        </div>
     </header>
     <main></main>
 </body>
@@ -40,4 +62,5 @@
     </div>
 </footer>
 <script src="https://cdn.jsdelivr.net/npm/gumdrop"></script>
+<script src="script/language.js"></script>
 </html>

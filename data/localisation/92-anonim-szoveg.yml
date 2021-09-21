@@ -1,0 +1,6 @@
+---
+- lang: hungarian
+  text: "Bár a kérdőívek kitöltéséhez INF-es bejelentkezés szükséges, ez csak egy autentikációs lépés, melynek célja, hogy ne lehessen válaszokkal spamelni a rendszert. Az űrlapok nem kötik a nevet válaszokhoz, sőt, nem is tárolják, hogy kik válaszoltak már (ezt csak a Microsoft forms tudja belsőleg).
+         Mindezt az alábbi Forms beállítások biztosítják:"
+- lang: english
+  text: "Although an INF login is required to complete the questionnaires, this is just an authentication step designed to prevent spam responses. The forms do not bind the name to responses, nor do they store who has already responded (only Microsoft Forms knows this internally). All this is provided by the following Forms settings (Hungarian): "

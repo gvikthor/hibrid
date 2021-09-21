@@ -1,41 +1,61 @@
 ---
-- day: 09.16. Csütörtök
-  desc: A kérdőívet szombat este 19:59-ig tudjátok kitölteni.
+- hun-day: 09.16. Csütörtök
+  hun-desc: A kérdőívet szombat este 19:59-ig tudjátok kitölteni.
+  eng-day: 16.09. Thursday
+  eng-desc: You can fill the form until Saturday at 7:59PM
   link: https://forms.office.com/r/8Jxv898vMq
   color: gray
-- day: 09.15. Szerda
-  desc: A kérdőívet szombat este 19:59-ig tudjátok kitölteni.
+- hun-day: 09.15. Szerda
+  hun-desc: A kérdőívet szombat este 19:59-ig tudjátok kitölteni.
+  eng-day: 15.09. Wednesday
+  eng-desc: You can fill the form until Saturday at 7:59PM
   link: https://forms.office.com/r/NhjSRRNJLz
   color: gray
-- day: 09.14. Kedd
-  desc: A kérdőívet szombat este 19:59-ig tudjátok kitölteni.
+- hun-day: 09.14. Kedd
+  hun-desc: A kérdőívet szombat este 19:59-ig tudjátok kitölteni.
+  eng-day: 14.09. Tuesday
+  eng-desc: You can fill the form until Saturday at 7:59PM
   link: https://forms.office.com/r/tkXuMu6pej
   color: gray
-- day: 09.13. Hétfő
-  desc: A kérdőívet szombat este 19:59-ig tudjátok kitölteni.
+- hun-day: 09.13. Hétfő
+  hun-desc: A kérdőívet szombat este 19:59-ig tudjátok kitölteni.
+  eng-day: 13.09. Monday
+  eng-desc: You can fill the form until Saturday at 7:59PM
   link: https://forms.office.com/r/b2H4nrKBie
   color: gray
-- day: 1. heti eredmények
-  desc: Használd a táblázat nézetszűrőit, ha csak az online/jelenléti eredményeket szeretnéd látni!
+- hun-day: 1. heti eredmények
+  hun-desc: Használd a táblázat nézetszűrőit, ha csak az online/jelenléti eredményeket szeretnéd látni!
+  eng-day: Results of the 1st week
+  eng-desc: Only available in Hungarian, because the page was not bilingual in the first two weeks.
   link: https://ikelte-my.sharepoint.com/:x:/g/personal/mohmas_inf_elte_hu/EQcnzvdXMntDrVpsCSb8rYYBadDkPqVfR3jHlRoV3wx19g?e=Gwh6MD
   color: hok-green
-- day: 09.10. Péntek
-  desc: 'Össz/Online/Jelenléti: 3.20/2.77/3.61'
+- hun-day: 09.10. Péntek
+  hun-desc: 'Össz/Online/Jelenléti: 3.20/2.77/3.61'
+  eng-day: 10.09. Friday
+  eng-desc: 'All/Online/Presence: 3.20/2.77/3.61'
   link: https://forms.office.com/r/i5QJkFxGwH
   color: gray
-- day: 09.09. Csütörtök
-  desc: 'Össz/Online/Jelenléti: 3.13/3.14/3.11'
+- hun-day: 09.09. Csütörtök
+  hun-desc: 'Össz/Online/Jelenléti: 3.13/3.14/3.11'
+  eng-day: 09.09. Thursday
+  eng-desc: 'All/Online/Presence: 3.13/3.14/3.11'
   link: https://forms.office.com/r/6PZ461PUkX
   color: gray
-- day: 09.08. Szerda
-  desc: 'Össz/Online/Jelenléti: 3.23/3.33/3.13'
+- hun-day: 09.08. Szerda
+  hun-desc: 'Össz/Online/Jelenléti: 3.23/3.33/3.13'
+  eng-day: 08.09. Wednesday
+  eng-desc: 'All/Online/Presence: 3.23/3.33/3.13'
   color: gray
   link: https://forms.office.com/r/dp9UVWGHzE
-- day: 09.07. Kedd
-  desc: 'Össz/Online/Jelenléti: 3.03/3.01/3.05'
+- hun-day: 09.07. Kedd
+  hun-desc: 'Össz/Online/Jelenléti: 3.03/3.01/3.05'
+  eng-day: 07.09. Tuesday
+  eng-desc: 'All/Online/Presence: 3.03/3.01/3.05'
   link: https://forms.office.com/r/ArupL04K3y
   color: gray
-- day: 09.06. Hétfő
-  desc: 'Össz/Online/Jelenléti: 2.72/2.57/2.91'
+- hun-day: 09.06. Hétfő
+  hun-desc: 'Össz/Online/Jelenléti: 2.72/2.57/2.91'
+  eng-day: 06.09. Monday
+  eng-desc: 'All/Online/Presence: 2.72/2.57/2.91'
   link: https://forms.office.com/r/6g8gMrrF3H
   color: gray

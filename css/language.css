@@ -1,0 +1,6 @@
+.hide-hungarian .language.hungarian{
+    display: none !important;
+}
+.hide-english .language.english{
+    display: none !important;
+}

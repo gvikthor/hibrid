@@ -1,4 +1,7 @@
 ---
-- day: 09.17. Péntek
+- hun-day: 09.17. Péntek
+  hun-desc: Ez a legfrissebb kérdőív. Minden nap kikerül egy új űrlap az előző napról. A pénteki formot vasárnap este 19:59-ig tudjátok kitölteni.
+  eng-day: 17.09. Friday
+  eng-desc: This is the current survey. Every day a new form is published about the previous day. You can fill the Friday form until Sunday at 7:59PM
   link: https://forms.office.com/r/BxBj1tKWRB
   color: hok-lblue

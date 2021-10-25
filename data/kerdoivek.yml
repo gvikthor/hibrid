@@ -1,4 +1,15 @@
 ---
+- hun-day: 10.11. – 10.15. Hét
+  hun-desc: A kérdőív a 6. tanítási hétre vonatkozik.
+  eng-day: Week 11.10. - 15.10.
+  eng-desc: The form is about the 6th week of education.
+  color: gray
+- hun-day: 10.03. – 10.08. Hét
+  hun-desc: A kérdőív a 5. tanítási hétre vonatkozik.
+  eng-day: Week 03.10. - 08.10.
+  eng-desc: The form is about the 5th week of education.
+  link: https://forms.office.com/r/Gx5eGAmdBD
+  color: gray
 - hun-day: 09.27. – 10.01. Hét
   hun-desc: A kérdőív a 4. tanítási hétre vonatkozik.
   eng-day: Week 27.09. - 01.10.
